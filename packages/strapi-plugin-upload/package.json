@@ -17,7 +17,7 @@
     "@buffetjs/hooks": "3.3.4",
     "@buffetjs/icons": "3.3.4",
     "@buffetjs/styles": "3.3.4",
-    "@buffetjs/utils": "3.3.4",
+    "@buffetjs/utils": "3.3.8",
     "byte-size": "^7.0.0",
     "cropperjs": "^1.5.6",
     "immer": "^8.0.1",

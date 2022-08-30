@@ -31,7 +31,7 @@
     "lodash": "4.17.20",
     "p-map": "4.0.0",
     "strapi-utils": "3.5.0",
-    "verror": "^1.10.0"
+    "verror": "^1.10.1"
   },
   "gitHead": "231263a3535658bab1e9492c6aaaed8692d62a53"
 }
